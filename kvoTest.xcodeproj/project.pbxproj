@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0E43CE042112EF7B00E99C11 /* UIButton+Click.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E43CE032112EF7B00E99C11 /* UIButton+Click.m */; };
+		0E4992C2211438FC00367B60 /* UIView+Animation.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E4992C1211438FC00367B60 /* UIView+Animation.m */; };
 		0E53ABB2211155C7001E8245 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E53ABB1211155C7001E8245 /* AppDelegate.m */; };
 		0E53ABB5211155C7001E8245 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0E53ABB4211155C7001E8245 /* ViewController.m */; };
 		0E53ABB8211155C7001E8245 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0E53ABB6211155C7001E8245 /* Main.storyboard */; };
@@ -20,6 +21,8 @@
 /* Begin PBXFileReference section */
 		0E43CE022112EF7B00E99C11 /* UIButton+Click.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIButton+Click.h"; sourceTree = "<group>"; };
 		0E43CE032112EF7B00E99C11 /* UIButton+Click.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Click.m"; sourceTree = "<group>"; };
+		0E4992C0211438FC00367B60 /* UIView+Animation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+Animation.h"; sourceTree = "<group>"; };
+		0E4992C1211438FC00367B60 /* UIView+Animation.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+Animation.m"; sourceTree = "<group>"; };
 		0E53ABAD211155C7001E8245 /* kvoTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kvoTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E53ABB0211155C7001E8245 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		0E53ABB1211155C7001E8245 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -66,6 +69,8 @@
 			children = (
 				0E53ABB0211155C7001E8245 /* AppDelegate.h */,
 				0E53ABB1211155C7001E8245 /* AppDelegate.m */,
+				0E4992C0211438FC00367B60 /* UIView+Animation.h */,
+				0E4992C1211438FC00367B60 /* UIView+Animation.m */,
 				0E53ABC6211155FE001E8245 /* Person.h */,
 				0E53ABC7211155FE001E8245 /* Person.m */,
 				0E43CE022112EF7B00E99C11 /* UIButton+Click.h */,
@@ -154,6 +159,7 @@
 				0E53ABB5211155C7001E8245 /* ViewController.m in Sources */,
 				0E43CE042112EF7B00E99C11 /* UIButton+Click.m in Sources */,
 				0E53ABC0211155C8001E8245 /* main.m in Sources */,
+				0E4992C2211438FC00367B60 /* UIView+Animation.m in Sources */,
 				0E53ABC8211155FE001E8245 /* Person.m in Sources */,
 				0E53ABB2211155C7001E8245 /* AppDelegate.m in Sources */,
 			);
