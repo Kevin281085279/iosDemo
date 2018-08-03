@@ -22,7 +22,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 //    Person *p1 = [[Person alloc] init];
-//    [self outCount];
+    ///tetstt
+    [self outCount];
     [self kvoAction];
     self.ceshiBtn.cs_acceptEventInterval = 2;
 }
